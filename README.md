@@ -71,8 +71,9 @@
 
 * **Getters and Setters**
 	* Define a [getter and setter](https://en.wikipedia.org/wiki/Mutator_method#Java_example) for each of the instance variables declared in the `Student` class.
-		* **Note:** There should not be a `setter` for the `testScore`. This object's [state](https://cs.stackexchange.com/questions/6536/definition-of-the-state-of-an-object-in-oop) will be [mutated](https://en.wikibooks.org/wiki/Scheme_Programming/Mutability) via a `takeExam` method mentioned below.
-		* Additionally, define a getter, `getNumberOfExamsTaken()`, which returns the total number of exams taken by this student.
+        * **Note:** There should not be a `setter` for the `testScore`. This object's [state](https://cs.stackexchange.com/questions/6536/definition-of-the-state-of-an-object-in-oop) 
+        * will be [mutated](https://en.wikibooks.org/wiki/Scheme_Programming/Mutability) via a `takeExam` method mentioned below.
+        * Additionally, define a getter, `getNumberOfExamsTaken()`, which returns the total number of exams taken by this student.
 
 
 
